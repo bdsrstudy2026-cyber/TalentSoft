@@ -1,13 +1,29 @@
 # TalentSoft 👔✨
-Sistema modular para la automatización de procesos de talento humano en la microempresa **Dimon's Style**.
 
-## 📑 Documentación del Proyecto
-En este repositorio se encuentra organizada toda la evidencia técnica del análisis y diseño del sistema:
+**TalentSoft** es un sistema modular diseñado para automatizar y optimizar los procesos de administración de talento humano en la microempresa **Dimon's Style**.
 
-* **Análisis:** Requerimientos bajo el estándar IEEE 830, procesos y marco normativo (Ver carpeta `01-analisis-y-requisitos`).
-* **Modelado:** Diagramas de flujo de usuario y Casos de Uso Extendidos (Ver carpeta `02-diseno-y-diagramas`).
-* **Ficha Técnica:** Especificaciones iniciales de TalentSoft (Ver carpeta `03-producto-y-fichas`).
+---
+
+## 👥 Integrantes del Proyecto
+* **Brayan Dario Sierra Ramirez** - *Aprendiz*
+* **Yesly Neired Diaz Montilla** - *Aprendiz*
+* **David Steven Castro Garavito** - *Aprendiz*
+
+---
+
+## 📑 Estructura de la Documentación
+En este repositorio se encuentra organizada toda la evidencia técnica de la fase de análisis y diseño del sistema:
+
+* **📁 01-Análisis y Requisitos:** Contiene la entrevista técnica, el análisis de procesos, el marco normativo y la especificación de requisitos de software bajo el estándar **IEEE 830**.
+* **📁 02-Diseño y Diagramas:** Incluye los diagramas de Casos de Uso Extendidos, el Flujo Navegable y el Diagrama de Flujo de Usuario.
+* **📁 03-Producto y Fichas:** Contiene la propuesta de la Ficha Técnica inicial de la aplicación.
+
+---
 
 ## 🚀 Demostración del Prototipo
-¡Puedes interactuar con nuestra propuesta de interfaz en el siguiente enlace!
-* 🔗 [Clic aquí para ver el Prototipo Interactivo en Figma](#) *([Aquí pegan su link real](https://www.figma.com/make/l9PB0Wd36Zv3s243oEF2N2/Dise%C3%B1ar-interfaz-de-Login?fullscreen=1&t=uhszyDXNvUZZ4gXy-1&code-node-id=0-9))*
+El prototipo actual permite visualizar de manera interactiva el flujo de navegación entre los módulos principales de TalentSoft.
+
+* 🔗 [Haz clic aquí para interactuar con el Prototipo en Canva/Figma](https://www.figma.com/proto/n8Fs07CzkZTAufmNAaEs6s/Prototipo-TS?node-id=7-5&starting-point-node-id=7%3A2&t=kJhOD40Mypyr9pVO-1)
+
+---
+*Proyecto formativo desarrollado para el Servicio Nacional de Aprendizaje (SENA).*
